@@ -1,1 +1,7 @@
-# ip
+#EXTM3U
+
+#EXTINF:-1,Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+
+#EXTINF:-1,Big TV Malayalam
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
