@@ -180,3 +180,6 @@ https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 
 #EXTINF:-1 tvg-id="TimeVisionNews.in@SD" tvg-logo="https://i.imgur.com/qvuOBP7.png" group-title="Malayalam",Time Vision News (720p)
 http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Tamil",7S Music (576p)
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
