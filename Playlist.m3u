@@ -524,11 +524,11 @@ https://jmp2.uk/stvp-US3900009ZV
 
 # ==================== Sports====================
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.tvivu.com/logos/cricket-gold-160.webp" tvg-country="AU" tvg-language="eng" tvg-id="CricketGold.au",Cricket Gold1
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/cricket-gold-160.webp" tvg-country="AU" tvg-language="eng" tvg-id="CricketGold.au",Cricket Gold1
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.tvivu.com/logos/cricket-gold-160.webp" tvg-country="AU" tvg-language="eng" tvg-id="CricketGold.au",Cricket Gold2
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/cricket-gold-160.webp" tvg-country="AU" tvg-language="eng" tvg-id="CricketGold.au",Cricket Gold2
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.tvivu.com/logos/cricket-gold-160.webp" tvg-country="AU" tvg-language="eng" tvg-id="CricketGold.au",Cricket Gold3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.tvivu.com/logos/cricket-gold-160.webp" tvg-country="AU" tvg-language="eng" tvg-id="CricketGold.au",Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 # ==================== Kids====================
@@ -700,7 +700,7 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 # ==================== Tamil ====================
 
-#EXTINF:-1 tvg-id="VijaySuper.in@SD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="Tamil",Vijay Super
+#EXTINF:-1 tvg-id="VijaySuper.in@SD" tvg-logo="https://i.imgur.com/3MWm9nD.png" ,Vijay Super
 http://202.70.146.135:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540" group-title="Tamil",Vasanth TV
@@ -715,7 +715,7 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="UltimateTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" group-title="Tamil",Ultimate TV
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil",Tunes 6
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" Tunes 6
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 
 #EXTINF:-1 tvg-id="TamilanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Tamil",Tamilan TV
@@ -748,7 +748,7 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 #EXTINF:-1 tvg-id="NTCTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" group-title="Tamil",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
 
-#EXTINF:-1 tvg-id="MalarTV.in@SD" group-title="Tamil",Malar TV
+#EXTINF:-1 tvg-id="MalarTV.in@SD" Malar TV
 https://cdn-3.pishow.tv/live/473/master.m3u8
 
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil",MK Six
@@ -760,14 +760,14 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Tamil",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:-1 tvg-id="BrioTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png" group-title="Tamil",Brio TV
+#EXTINF:-1 tvg-id="BrioTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png" ,Brio TV
 https://mumt02.tangotv.in/BRIOTV/index.m3u8
 
 #EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Tamil",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://cdn.tvivu.com/logos/sirippoli-tv-160.webp" tvg-country="IN" tvg-language="tam" tvg-id="SirippoliTV.in",Sirippoli TV1
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://cdn.tvivu.com/logos/sirippoli-tv-160.webp" tvg-country="IN" tvg-language="tam" tvg-id="SirippoliTV.in",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://cdn.tvivu.com/logos/sirippoli-tv-160.webp" tvg-country="IN" tvg-language="tam" tvg-id="SirippoliTV.in",Sirippoli TV2
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/sirippoli-tv-160.webp" tvg-country="IN" tvg-language="tam" tvg-id="SirippoliTV.in",Sirippoli TV2
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
 
 # ==================== Tamil Music ====================
