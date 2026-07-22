@@ -134,9 +134,9 @@ https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 # ==================== 1.Malayalam Devotional ====================
-#EXTINF:-1 group-title="1.Malayalam Relegious" tvg-logo="https://cdn.tvivu.com/logos/powervision-tv-160.webp" tvg-country="IN" tvg-language="mal" tvg-id="PowervisionTV.in",Powervision TV
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/powervision-tv-160.webp" tvg-country="IN" tvg-language="mal" tvg-id="PowervisionTV.in",Powervision TV
 https://www.youtube.com/watch?v=4fhH9vdQZZg
-#EXTINF:-1 group-title="1.Malayalam Relegious" tvg-logo="https://cdn.tvivu.com/logos/powervision-tv-160.webp" tvg-country="IN" tvg-language="mal" tvg-id="PowervisionTV.in",Powervision TV
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/powervision-tv-160.webp" tvg-country="IN" tvg-language="mal" tvg-id="PowervisionTV.in",Powervision TV
 https://www.youtube.com/watch?v=VzjhqtqBTi4
 
 
