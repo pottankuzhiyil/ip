@@ -587,13 +587,13 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://jmp2.uk/stvp-IN38000072R
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/the-movie-club-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="TheMovieClub.in",The Movie Club5
 https://jmp2.uk/stvp-IN40000100Y
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus1
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus1
 http://tvsen7.aynascope.net/sphdbd/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus2
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus2
 http://41.205.93.154/STAR-PLUS/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus3
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus3
 http://41.205.77.102/STAR-PLUS/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus4
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus
 http://103.253.18.58:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes1
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
@@ -652,7 +652,7 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="Hindi",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="Hindi",Shubh Cinema TV
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" Shubh Cinema TV
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Hindi",Shemaroo TV
