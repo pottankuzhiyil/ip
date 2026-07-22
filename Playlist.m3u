@@ -595,49 +595,49 @@ http://41.205.93.154/STAR-PLUS/index.m3u8
 http://41.205.77.102/STAR-PLUS/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/starplus-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="StarPlus.in",StarPlus4
 http://103.253.18.58:8000/play/a00l
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes1
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes1
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes2
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes3
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes3
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes4
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes4
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes5
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/ndtv-goodtimes-in-160.webp" tvg-country="IN" tvg-language="eng",NDTV GoodTimes5
 https://jmp2.uk/stvp-INBC2800007ZP
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/goldmines-bollywood-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="GoldminesBollywood.in",Goldmines Bollywood1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/goldmines-bollywood-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="GoldminesBollywood.in",Goldmines Bollywood2
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/goldmines-bollywood-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="GoldminesBollywood.in",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/goldmines-bollywood-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="GoldminesBollywood.in",Goldmines Bollywood3
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/goldmines-bollywood-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="GoldminesBollywood.in",Goldmines Bollywood3
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/goldmines-movies-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="GoldminesMovies.in",Goldmines Movies
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/goldmines-movies-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="GoldminesMovies.in",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/goldmines-2-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="Goldmines2.in",Goldmines 2
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/goldmines-2-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="Goldmines2.in",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/bollywood-hd-160.webp" tvg-country="RO" tvg-language="hin" tvg-id="BollywoodHD.ro",Bollywood HD1
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/bollywood-hd-160.webp" tvg-country="RO" tvg-language="hin" tvg-id="BollywoodHD.ro",Bollywood HD1
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/bollywood-hd-160.webp" tvg-country="RO" tvg-language="hin" tvg-id="BollywoodHD.ro",Bollywood HD2
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/bollywood-hd-160.webp" tvg-country="RO" tvg-language="hin" tvg-id="BollywoodHD.ro",Bollywood HD2
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/bollygold-in-160.webp" tvg-country="IN" tvg-language="eng",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/best-action-tv-in-160.webp" tvg-country="IN" tvg-language="eng",Best Action TV
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/best-action-tv-in-160.webp" tvg-country="IN" tvg-language="eng",Best Action TV
 https://jmp2.uk/stvp-IN4000517J
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/b4u-music-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="B4UMusic.in",B4U Music1
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/b4u-music-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="B4UMusic.in",B4U Music1
 https://cdn-2.pishow.tv/live/415/master.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/b4u-music-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="B4UMusic.in",B4U Music2
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/b4u-music-160.webp" tvg-country="IN" tvg-language="hin" tvg-id="B4UMusic.in",B4U Music2
 https://jmp2.uk/stvp-IN3900017KM
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies1
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies1
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies2
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies2
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies3
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies3
 https://cdn-2.pishow.tv/live/419/master.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies4
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies4
 https://cdn-2.pishow.tv/live/419/master.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies5
+#EXTINF:-1 tvg-logo="https://cdn.tvivu.com/logos/b4u-movies-in-160.webp" tvg-country="IN" tvg-language="eng",B4U Movies5
 https://jmp2.uk/stvp-IN3900016WI
 
 #EXTINF:-1 tvg-id="ZeeCinema.in@ME" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi",Zee Cinema ME
@@ -658,9 +658,6 @@ https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/in
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Hindi",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RONGEEN_TV/images/LOGO_HD/image.png" group-title="Hindi",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Hindi",Nazara
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 
@@ -679,7 +676,7 @@ https://cdn-1.pishow.tv/live/11/master.m3u8
 #EXTINF:-1 tvg-id="ChannelY.ca@SD" tvg-logo="https://i.imgur.com/OqSl2Qf.png" group-title="Hindi",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BigMagic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540" group-title="Hindi",Big Magic
+#EXTINF:-1 tvg-id="BigMagic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540" ,Big Magic
 https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 
 # ==================== Hindi Music ====================
