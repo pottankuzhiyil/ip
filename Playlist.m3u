@@ -260,15 +260,15 @@ https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 group-title="English"  tvg-logo="https://cdn.tvivu.com/logos/britbox-mysteries-us-160.webp" tvg-country="US" tvg-language="eng",BritBox Mysteries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-#EXTINF:-1  group-title="English"  tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary1
+#EXTINF:-1  group-title="English"  tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1  group-title="English" tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary2
+#EXTINF:-1  tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary2
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1  group-title="English" tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary3
+#EXTINF:-1  tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary3
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1  group-title="English" tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary4
+#EXTINF:-1  tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary4
 https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
-#EXTINF:-1  group-title="English" tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary5
+#EXTINF:-1  tvg-logo="https://cdn.tvivu.com/logos/cgtn-documentary-160.webp" tvg-country="CN" tvg-language="eng" tvg-id="CGTNDocumentary.cn",CGTN Documentary5
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://cdn.tvivu.com/logos/dallas-cowboys-cheerleaders-160.webp" tvg-country="US" tvg-language="eng" tvg-id="DallasCowboysCheerleaders.us",Dallas Cowboys Cheerleaders1
 https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
