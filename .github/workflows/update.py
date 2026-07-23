@@ -1,42 +1,49 @@
 import subprocess
-import os
+import re
 
-PLAYLIST = "Playlist.m3u"
+SOURCE = "Playlist.m3u"
+OUTPUT = "Playlist-live.m3u"
 
-if not os.path.exists(PLAYLIST):
-    print("Playlist.m3u not found")
-    exit(1)
-
-with open(PLAYLIST, "r", encoding="utf-8", errors="ignore") as f:
+with open(SOURCE, "r", encoding="utf-8", errors="ignore") as f:
     lines = f.readlines()
 
-new_lines = []
+out = []
 
 for line in lines:
+
     url = line.strip()
 
-    if url.startswith("https://www.youtube.com") or url.startswith("http://www.youtube.com") \
-       or url.startswith("https://youtu.be") or url.startswith("http://youtu.be"):
+    if ("youtube.com/" in url or "youtu.be/" in url):
 
-        print("Updating:", url)
+        print("Resolving:", url)
 
         try:
-            stream = subprocess.check_output(
-                ["yt-dlp", "-g", url],
+
+            result = subprocess.check_output(
+                [
+                    "yt-dlp",
+                    "-g",
+                    url
+                ],
                 text=True,
-                timeout=60
-            ).strip()
+                timeout=90
+            )
 
-            if stream.startswith("http"):
-                new_lines.append(stream + "\n")
-                continue
+            stream = result.splitlines()[0].strip()
 
-        except Exception as e:
-            print("Failed:", e)
+            out.append(stream + "\n")
 
-    new_lines.append(line)
+        except Exception:
 
-with open(PLAYLIST, "w", encoding="utf-8") as f:
-    f.writelines(new_lines)
+            print("Offline:", url)
 
-print("Playlist updated.")
+            out.append(url + "\n")
+
+    else:
+
+        out.append(line)
+
+with open(OUTPUT, "w", encoding="utf-8") as f:
+    f.writelines(out)
+
+print("Generated", OUTPUT)
