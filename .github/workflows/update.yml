@@ -35,7 +35,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add Playlist.m3u
+          git add Playlist-live.m3u
 
           if git diff --cached --quiet; then
             echo "No changes"
